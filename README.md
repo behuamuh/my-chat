@@ -1,4 +1,4 @@
-# Build a Chat Application using React, Redux, Redux-Saga and Web Sockets
+# Build a Chat Application using React, Redux, Redux-Saga and Web Sockets with https://flaviocopes.com tutorial.
 
 ![](./result.gif)
 
